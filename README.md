@@ -1,8 +1,8 @@
 # Calculadora IMC
 
-Disciplina: Programação Orientada a Objetos Professor: Romes Instituição: UniCEUB — Centro Universitário de Brasília
+Disciplina: Programação Orientada a Objetos Professor: Romes - Instituição: UniCEUB — Centro Universitário de Brasília
 
-Aluno: Paulo Vitor David Trindade RA: 72600985 E-mail: paulo.trindade@sempreceub.com
+Aluno: Paulo Vitor David Trindade - RA: 72600985 E-mail: paulo.trindade@sempreceub.com
 
 Sistematização da disciplina Programação Orientada a Objetos — UniCEUB, Campus Virtual, turma B.
 
